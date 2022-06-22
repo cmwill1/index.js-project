@@ -120,8 +120,8 @@ let faveDrink = ("water", "juice", "soda")
     be sure to use a keyword that will prevent change.
 */
 
-// CODE HERE
-// const private =boolean true
+CODE HERE
+const private = true
 
 
 
